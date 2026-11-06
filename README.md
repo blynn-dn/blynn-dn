@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying (cramming) for the AWS Developer Certification.  I'm also digging into<br>the go language and making some real progress.<br><br>My current primary development language is python.  I spend a lot of time with micropython <br>when working with ESP32 processors.
+I'm currently studying (cramming) for the PCAP Certification.  I'm also digging back into<br>the go language and making some real progress.<br><br>My current primary development language is python.  I spend a lot of time with micropython <br>when working with ESP32 processors.
 
 
 ## 🌐 Socials:
